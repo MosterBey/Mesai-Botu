@@ -1,0 +1,11 @@
+{
+  "name": "mesai-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^10.0.0",
+    "moment-timezone": "^0.5.48"
+  }
+}
